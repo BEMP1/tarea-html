@@ -1,2 +1,2 @@
 # tarea-html
-desarrollo
+Abrir el archivo html con cualquier navegador
